@@ -16,6 +16,5 @@
     <?php include '../app/views/template/partials/_footer.php'; ?>
     <?php include '../app/views/template/partials/_loader.php'; ?>
     <?php include '../app/views/template/partials/_scripts.php'; ?> 
-
   </body>
 </html>
